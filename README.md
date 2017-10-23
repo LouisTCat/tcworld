@@ -21,6 +21,7 @@ You can also create unordered lists:
 * Item 4
 * Item 4b
 * Item 5
+* Item 6
 
 And also ordered lists (of course): 
  
